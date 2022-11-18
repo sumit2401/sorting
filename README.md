@@ -1,2 +1,2 @@
 # sorting
-in this repo , we'll post sorting techniques #hacktoberfest
+in this repo , we'll post sorting techniques
